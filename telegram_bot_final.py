@@ -6,7 +6,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
 # Define your bot token
 
-TOKEN = "7319650527:AAEa0UA3HFaRAfACXeiadSs-JDVrG7xwO3Q"
+
 # Define command handler functions as asynchronous
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     try:
